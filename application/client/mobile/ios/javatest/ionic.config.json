@@ -1,0 +1,7 @@
+{
+  "name": "javatest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
